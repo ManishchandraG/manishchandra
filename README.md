@@ -66,7 +66,7 @@ From your command line, clone and run developerFolio:
 git clone https://github.com/ManishchandraG/manishchandra.git
 
 # Go into the repository
-cd developerFolio
+cd manishchandra
 
 # Setup default environment variables
 
